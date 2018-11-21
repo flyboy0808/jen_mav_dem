@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="MultiClassesReport.Multiplereports.HomePage">
+        <methods>
+          <include name="Open_Latest_Section_First_Story_from_Image"/>
+          <include name="Open_Second_Promoted_Story_from_Image"/>
+          <include name="getResults"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- MultiClassesReport.Multiplereports.HomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

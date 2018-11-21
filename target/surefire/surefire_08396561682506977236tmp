@@ -1,0 +1,5 @@
+#surefire_0
+#Wed Nov 21 13:05:08 UTC 2018
+user.dir=/var/www/html/demo_jenkins
+localRepository=/var/lib/jenkins/.m2/repository
+basedir=/var/www/html/demo_jenkins
